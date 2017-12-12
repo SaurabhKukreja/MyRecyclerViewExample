@@ -25,6 +25,7 @@ import static com.android.volley.VolleyLog.TAG;
  */
 
 public class Controller {
+    //Testing
     private static Controller controllerInstace;
     private int CUSTOM_DEFAULT_MAX_RETRIES =1;
     private int MAXIMUM_TIME_OUT = 60000;
